@@ -5,7 +5,6 @@ require_once __DIR__ . "/exceptions.php";
 
 class Config {
     static $MONEY_URL = "https://money.yandex.ru";
-    static $SP_MONEY_URL = "https://sp-money.yandex.ru";
 }
 
 class BaseAPI {
